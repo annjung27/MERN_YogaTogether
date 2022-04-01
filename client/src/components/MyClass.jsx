@@ -1,5 +1,5 @@
 import React from 'react'
-import { connect, useDispatch, useSelector } from 'react-redux'
+import { connect } from 'react-redux'
 import { Link, useHistory } from 'react-router-dom'
 import Styles from './MyClass.module.css'
 
@@ -37,8 +37,11 @@ const MyClass = (props) => {
                             )
                         })
                     }
+                    <tr>
+                        <td><h3>Total:</h3></td>
+                    </tr>
             </tbody>
-            <h3>Total:</h3>
+            
         </table>
         <div>
             <button onClick={()=> {history.goBack()}} className={Styles.back_button}>Back</button>

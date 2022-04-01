@@ -9,6 +9,7 @@ const Navbar = (props) => {
         <Link to='/' className={Styles.linkStyle}><h4 style={{paddingLeft:"20px", marginRight: "20px"}}>Yoga Together</h4></Link>     
             <Link to='/' className={Styles.linkStyle}><p style={{marginRight:"20px"}}>Home</p></Link>
             <Link to='/classes' className={Styles.linkStyle}><p style={{marginRight:"20px"}}>Classes</p></Link>
+            <Link to='/instructors' className={Styles.linkStyle}><p style={{marginRight:"20px"}}>Instructors</p></Link>
             <Link to='/community' className={Styles.linkStyle}><p style={{marginRight:"20px"}}>Community</p></Link>
             <Link to='/events' className={Styles.linkStyle}><p>Events</p> </Link>           
         </div>
