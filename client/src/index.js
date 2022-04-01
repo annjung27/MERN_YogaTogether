@@ -21,14 +21,7 @@ function reducer( state = defaultState, action){
         copy.push(action.payload);
         return copy
       }    
-  }
-  // else if( action.type === 'removeItem'){
-  //   let copy = [...state]
-  //   const filteredItems = copy.filter((item, i) =>{
-  //     return i !== item.id
-  //   })
-  //   copy.push(filteredItems)
-  // }
+  }  
   else{ return state}
 }
 
