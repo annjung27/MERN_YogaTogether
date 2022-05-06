@@ -44,9 +44,13 @@ Features will be added in version 2.
 ### Edit Story
 <img src="https://user-images.githubusercontent.com/91655432/167049357-f0034bbc-ecef-4c66-ab01-d17130ffa25c.jpg" style="width:800px;">
 
+### Events
+<img src="https://user-images.githubusercontent.com/91655432/167084512-3d4e1d6e-c05f-4431-b88d-1a015f3f044e.jpg" style="width:800px;">
+
 ### Login and Registration
 <img src="https://user-images.githubusercontent.com/91655432/167048790-ac9004de-f15f-4f2e-84b1-70af892fdad3.jpg" style="width:800px;">
 <img src="https://user-images.githubusercontent.com/91655432/167048796-59267b83-257f-4c2f-b4ef-4bbe43a0b338.jpg" style="width:800px;">
+
 
 
 
